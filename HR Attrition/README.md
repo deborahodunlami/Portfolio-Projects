@@ -15,6 +15,9 @@ The HR Attrition Dashboard gives a comprehensive overview of employee attrition,
 A treemap of attrition by job role shows that the greatest attrition rates are seen in laboratory technician and sales executive positions. This trend emphasizes the need for focused interventions in these particular job roles to address underlying concerns such as job satisfaction, workload, and career advancement prospects. A pie chart of department-wise attrition demonstrates that the Sales and Research & Development (R&D) departments have the greatest attrition rates. This necessitates a more thorough assessment of departmental rules and procedures that may be leading to greater turnover.  
 
 Furthermore, a bar chart illustrating attrition by age category shows that younger workers, especially those aged between the ages of 25 and 34, have the greatest attrition rate. Employee turnover rates tend to drop as they age, suggesting that younger workers may be looking for better opportunities or confronting issues that must be handled. Furthermore, a funnel chart illustrating attrition by marital status demonstrates that single workers have a greater attrition rate than their married colleagues.
+
+![image](https://github.com/mzdamidee/Portfolio-Projects/assets/26973838/17cbf40a-37ea-47bc-a9af-ee559f78ba4e)
+
 ## Key Drivers of Attrition:
 - High attrition rates among employees with lower educational qualifications suggest limited career advancement opportunities and job dissatisfaction.
 -	Elevated attrition rates in sales executive and laboratory technician roles point to potential issues with job satisfaction and workload.
