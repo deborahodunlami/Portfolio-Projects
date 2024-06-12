@@ -12,11 +12,14 @@ The dataset consists of 279,712 entries with 33 columns, including attributes li
 
 **Listing Analysis**
 -	**Neighborhood Distribution:** Certain neighborhoods like Buttes-Montmartre and Elysee have a higher concentration of listings, likely due to their popularity and central location.
--	**Price Distribution:** Prices vary widely, with most listings in the lower price range, but some outliers exist with extremely high prices.  
+-	**Price Distribution:** Prices vary widely, with most listings in the lower price range, but some outliers exist with extremely high prices.
+
 **Review Scores Analysis**
--	Review scores are generally high, indicating positive guest experiences. Most scores cluster around 8-10.  
+-	Review scores are generally high, indicating positive guest experiences. Most scores cluster around 8-10.
+
 **Correlation Analysis**
--	Strong positive correlations exist between various review scores, suggesting that high ratings in one aspect often correlate with high ratings in other aspects.  
+-	Strong positive correlations exist between various review scores, suggesting that high ratings in one aspect often correlate with high ratings in other aspects.
+
 **Impact of 2015 Regulations**
 -	New Hosts: The growth rate of new hosts slowed down slightly after 2015, suggesting that the regulations introduced some barriers for new hosts.
 -	Average Price: There was a noticeable dip in average prices around 2015, indicating that the regulations might have temporarily stabilized or reduced prices.  
@@ -36,15 +39,18 @@ The dataset consists of 279,712 entries with 33 columns, including attributes li
 The analysis of Airbnb listings in Paris reveals several key insights:
 -	The 2015 regulations had a noticeable impact, moderating the growth of new hosts and stabilizing prices temporarily.
 -	Review scores are generally high, indicating positive guest experiences.
--	Significant variations exist in prices across different neighborhoods and accommodations, highlighting the diverse market.  
+-	Significant variations exist in prices across different neighborhoods and accommodations, highlighting the diverse market.
+
 This comprehensive analysis provides valuable insights for various stakeholders in the Airbnb market in Paris, offering a detailed understanding of trends, prices, and regulatory impacts. These findings can be leveraged to make informed decisions and strategies in the short-term rental market.
 # Future Recommendations:
 **1.	For Potential Hosts:**
 -	Understand neighborhood dynamics and pricing trends to strategically list properties.
--	Consider the impact of regulations and market trends when entering the market.  
+-	Consider the impact of regulations and market trends when entering the market.
+
 **2.	For Policymakers:**
 -	Monitor the long-term effects of regulations to balance market growth and housing availability.
--	Ensure regulations support a healthy, competitive market while protecting local housing needs.  
+-	Ensure regulations support a healthy, competitive market while protecting local housing needs.
+
 **3.	For Market Analysts:**
 -	Use the insights to predict future trends and advise stakeholders accordingly.
 -	Continuously analyze market data to stay informed about changes and emerging patterns.
