@@ -8,8 +8,8 @@ The dataset consists of 279,712 entries with 33 columns, including attributes li
 - **Date Conversion:** The *host_since* column was converted to datetime format.
 # Analysis and Findings:
 **Missing Values Analysis**
--	Columns such as *district*, *host_response_time*, and review scores had a high percentage of missing values, which could affect analysis accuracy.  
-<p>**Listing Analysis**
+-	Columns such as *district*, *host_response_time*, and review scores had a high percentage of missing values, which could affect analysis accuracy.  <br>
+**Listing Analysis**
 -	**Neighborhood Distribution:** Certain neighborhoods like Buttes-Montmartre and Elysee have a higher concentration of listings, likely due to their popularity and central location.
 -	**Price Distribution:** Prices vary widely, with most listings in the lower price range, but some outliers exist with extremely high prices.  
 **Review Scores Analysis**
