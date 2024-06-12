@@ -21,8 +21,8 @@ The dataset consists of 279,712 entries with 33 columns, including attributes li
 -	Strong positive correlations exist between various review scores, suggesting that high ratings in one aspect often correlate with high ratings in other aspects.
 
 **Impact of 2015 Regulations**
--	New Hosts: The growth rate of new hosts slowed down slightly after 2015, suggesting that the regulations introduced some barriers for new hosts.
--	Average Price: There was a noticeable dip in average prices around 2015, indicating that the regulations might have temporarily stabilized or reduced prices.  
+**-	New Hosts:** The growth rate of new hosts slowed down slightly after 2015, suggesting that the regulations introduced some barriers for new hosts.
+**-	Average Price:** There was a noticeable dip in average prices around 2015, indicating that the regulations might have temporarily stabilized or reduced prices.  
 # Detailed Insights:
 **Neighborhood Price Analysis**  
 &nbsp;&nbsp;&nbsp;&nbsp; A table was created to show the mean price by neighborhood, sorted from low to high. This revealed significant price variations across different neighborhoods.  
