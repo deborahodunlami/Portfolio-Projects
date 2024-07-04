@@ -14,6 +14,8 @@ The dataset consists of 279,712 entries with 33 columns, including attributes li
 -	**Neighborhood Distribution:** Certain neighborhoods like Buttes-Montmartre and Elysee have a higher concentration of listings, likely due to their popularity and central location.
 -	**Price Distribution:** Prices vary widely, with most listings in the lower price range, but some outliers exist with extremely high prices.
 
+![image](https://github.com/deborahodunlami/Portfolio-Projects/assets/26973838/9e65930b-5465-4fe0-b567-d35b3d297992)
+
 **Review Scores Analysis**
 -	Review scores are generally high, indicating positive guest experiences. Most scores cluster around 8-10.
 
@@ -29,12 +31,18 @@ The dataset consists of 279,712 entries with 33 columns, including attributes li
   
 **Accommodations in the Most Expensive Neighborhood**  
 &nbsp;&nbsp;&nbsp;&nbsp; In the most expensive neighborhood, a table was created to show the mean price by the number of accommodates. Prices tend to increase with the number of accommodates, reflecting the higher cost for larger properties.  
-  
+
+![image](https://github.com/deborahodunlami/Portfolio-Projects/assets/26973838/19c66a94-2226-40f4-b103-3347899cfc5f)
+
+
 **Hosts Over Time**  
 &nbsp;&nbsp;&nbsp;&nbsp; A table and dual-axis line chart were created to show the count of new hosts and average price over time. This highlighted trends before and after the 2015 regulations.  
 # Visualization Highlights:
 - **Horizontal Bar Charts:** Showed the average price by neighborhood and by accommodates in the most expensive neighborhood.  
 - **Line Charts:** Illustrated trends in the count of new hosts and average prices over time, providing a clear view of the market dynamics.
+
+![image](https://github.com/deborahodunlami/Portfolio-Projects/assets/26973838/9d4ccafb-b300-4f09-abfe-0aea7d7a0222)
+
 # Conclusion:
 The analysis of Airbnb listings in Paris reveals several key insights:
 -	The 2015 regulations had a noticeable impact, moderating the growth of new hosts and stabilizing prices temporarily.
