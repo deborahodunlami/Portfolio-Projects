@@ -19,8 +19,12 @@ The dataset consists of 279,712 entries with 33 columns, including attributes li
 **Review Scores Analysis**
 -	Review scores are generally high, indicating positive guest experiences. Most scores cluster around 8-10.
 
+![image](https://github.com/deborahodunlami/Portfolio-Projects/assets/26973838/d96cb636-c1d0-4191-8eb0-84b53fed325e)
+
 **Correlation Analysis**
 -	Strong positive correlations exist between various review scores, suggesting that high ratings in one aspect often correlate with high ratings in other aspects.
+
+![image](https://github.com/deborahodunlami/Portfolio-Projects/assets/26973838/fd66b08f-1b15-4670-9e64-c090dc0d5414)
 
 **Impact of 2015 Regulations**
 **-	New Hosts:** The growth rate of new hosts slowed down slightly after 2015, suggesting that the regulations introduced some barriers for new hosts.
