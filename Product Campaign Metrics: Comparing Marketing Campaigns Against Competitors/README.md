@@ -7,6 +7,7 @@ This project aims to analyze multiple datasets related to TechTech's product cam
 - TechTech Marketing Campaigns
 - Customer Data
 - External Economic Factors
+
 The project focused on evaluating the effectiveness of marketing campaigns, identifying customer behavior patterns, and understanding the influence of external factors on campaign success.
 
 ## Data Exploration and Cleaning
@@ -97,9 +98,23 @@ To understand the influence of external factors, a correlation analysis was cond
 - GDP Growth Rate and Inflation Rate showed weak correlations with campaign metrics such as Impressions, Clicks, and Sales.
 - Consumer Sentiment Index had a slightly stronger but still weak correlation with conversion rates.
 - Seasonal trends may be a more significant factor, suggesting a need for further time-series analysis.
-
+  
 **Key Insights:**
 - External economic conditions are not primary drivers of campaign success, but monitoring trends can help refine strategic planning.
+
+## Data Visualization
+
+Visualizations were essential in making the data insights more accessible and understandable. Using Looker's robust visualization tools, various charts and graphs were created to explore campaign performance, customer demographics, and external factors. These visualizations helped to quickly identify trends, compare metrics, and present complex data in an easily digestible format. For instance, bar charts were used to compare the ROI, impressions, and sales of TechTech’s marketing campaigns against those of its competitors, providing a clear, side-by-side view of performance metrics. This enabled easy identification of TechTech’s higher ad spend and conversion rates, as well as areas where competitors demonstrated more consistent returns.
+
+In addition to bar charts, pie charts, and heatmaps were utilized to visualize customer demographics. Pie charts effectively displayed the distribution of customer segments, age groups, and gender within TechTech’s customer base, offering insights into which demographics were most engaged with the marketing campaigns. Line graphs were also employed to track external factors such as GDP growth, inflation rates, and consumer sentiment over time, providing a time-series view of how these factors correlated with campaign outcomes. Overall, the visualizations not only made the data analysis more intuitive but also supported data-driven decision-making by clearly highlighting key areas for optimization and growth.
+
+The complete dashboard can be viewed [here](https://lookerstudio.google.com/reporting/963d18fc-e4b8-4288-8f6d-c73de291839f/page/TevBE)
+
+![image](https://github.com/user-attachments/assets/0870b515-3b7b-456f-872c-b90fa8d28c24)
+
+![image](https://github.com/user-attachments/assets/0ebe04cf-1f56-48a9-b7e7-83d8fa1316dd)
+
+![image](https://github.com/user-attachments/assets/7e5337f1-5046-449e-93b7-699881e70780)
 
 ## Actionable Insights and Recommendations
 **Campaign Optimization:**
@@ -126,4 +141,5 @@ TechTech’s marketing landscape is characterized by a wide variability in campa
 - Which customer segments respond best to marketing efforts?
 - What is the influence of external factors on campaign success?
 - Which campaigns should TechTech prioritize to maximize brand visibility?
+
 This comprehensive analysis provides the foundation for data-driven decision-making to improve TechTech’s marketing strategies and strengthen its position in the market.
