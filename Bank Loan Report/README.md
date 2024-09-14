@@ -3,7 +3,7 @@
 ## Overview
 This report provides a comprehensive analysis of the bank's lending activities, focusing on key performance indicators (KPIs) related to loan applications, disbursements, repayments, and borrower financial health. The insights derived from this analysis will help in making data-driven decisions, monitoring the health of the loan portfolio, and identifying trends that can inform our lending strategies.
 
-Certainly! Here's an explanation of the dataset in terms of the types of data it contains, categorized by their respective data types:
+Here's an explanation of the dataset in terms of the types of data it contains, categorized by their respective data types:
 
 ### Dataset Overview
 
